@@ -9,3 +9,5 @@ ofxCV and openCV for the face detection
 [ofxKCTouchGui2](https://github.com/elliotwoods/ofxKCTouchGui2)
 There may be others that I find I need later on as well, especially for iOS. 
 
+![Proposal sketch](assets/projectsketch.jpg)
+
